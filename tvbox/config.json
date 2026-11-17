@@ -1,0 +1,154 @@
+{
+ "wallpaper": "https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN",
+ "sites": [
+  {
+   "key": "vh_zy360",
+   "name": "360 采集站",
+   "type": 1,
+   "api": "https://360zy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_huya",
+   "name": "虎牙采集站",
+   "type": 1,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_hongniu",
+   "name": "红牛采集站",
+   "type": 1,
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_huohu",
+   "name": "火狐采集站",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_guangsu",
+   "name": "光速采集站",
+   "type": 1,
+   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_mdzy",
+   "name": "魔都资源",
+   "type": 1,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_bfzy",
+   "name": "暴风采集站",
+   "type": 1,
+   "api": "https://bfzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_rycj",
+   "name": "如意采集站",
+   "type": 1,
+   "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_subo",
+   "name": "速博采集站",
+   "type": 1,
+   "api": "https://subocaiji.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_jisu",
+   "name": "极速采集站",
+   "type": 1,
+   "api": "https://jszyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_ikun",
+   "name": "iKun采集站",
+   "type": 1,
+   "api": "https://ikunzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_jinying",
+   "name": "金鹰采集站",
+   "type": 1,
+   "api": "https://jyzyapi.com/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_xinlang",
+   "name": "新浪采集",
+   "type": 1,
+   "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ],
+ "lives": [
+  {
+   "name": "游魂直播源",
+   "type": 0,
+   "url": "https://www.iyouhun.com/tv/zb"
+  },
+  {
+   "name": "直播电视IPV4",
+   "type": 0,
+   "url": "https://live.zbds.top/tv/iptv4.txt"
+  },
+  {
+   "name": "宝盒直播",
+   "type": 0,
+   "url": "https://3043.kstore.space/bhvip/bhzb.txt"
+  },
+  {
+   "name": "IPTV 默认源",
+   "type": 0,
+   "url": "https://fastly.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
+  },
+  {
+   "name": "IPTV IPv4",
+   "type": 0,
+   "url": "https://fastly.jsdelivr.net/gh/Guovin/iptv-api@gd/output/ipv4/result.m3u"
+  },
+  {
+   "name": "myIPTV IPv4",
+   "type": 0,
+   "url": "https://fastly.jsdelivr.net/gh/suxuang/myIPTV@main/ipv4.m3u"
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "generated": "2026-11-17 16:38:09",
+ "sources": [
+  {
+   "id": "dongpian",
+   "name": "映屿聚合站",
+   "adapter": "dongpian",
+   "api": "https://dongpian.ai",
+   "tier": 1,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 0.61,
+   "note": "自身再聚合 20+ 个上游资源站，一站多线路"
+  },
+  {
+   "id": "zy360",
+   "name": "360 采集站",
+   "adapter": "maccms",
+   "api": "https://360zy.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "huya",
+   "name": "虎牙采集站",
+   "adapter": "maccms",
+   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "hongniu",
+   "name": "红牛采集站",
+   "adapter": "maccms",
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "huohu",
+   "name": "火狐采集站",
+   "adapter": "maccms",
+   "api": "https://hhzyapi.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "guangsu",
+   "name": "光速采集站",
+   "adapter": "maccms",
+   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "wsyzy",
+   "name": "无印采集站",
+   "adapter": "maccms",
+   "api": "https://api.wsyzy.net/api.php/provide/vod/",
+   "tier": 3,
+   "status": "retire-candidate",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 0.0,
+   "note": "首测返回非 JSON，观察"
+  },
+  {
+   "id": "ledou",
+   "name": "乐逗（追光主源）",
+   "adapter": "ledou",
+   "api": "https://js.trgfd.cn",
+   "tier": 3,
+   "status": "retire-candidate",
+   "last_ok": "2026-10-23 20:02:41",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 0.0,
+   "note": "服务端 10306 广告墙：真实地址被扣；降为机会源，放行时自动回路由"
+  },
+  {
+   "id": "mdzy",
+   "name": "魔都资源",
+   "adapter": "maccms",
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0,
+   "note": "首测 2/3 命中全可播（嫁金钗、仙逆），观察期 3 轮"
+  },
+  {
+   "id": "bfzy",
+   "name": "暴风采集站",
+   "adapter": "maccms",
+   "api": "https://bfzyapi.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "rycj",
+   "name": "如意采集站",
+   "adapter": "maccms",
+   "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "subo",
+   "name": "速博采集站",
+   "adapter": "maccms",
+   "api": "https://subocaiji.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "jisu",
+   "name": "极速采集站",
+   "adapter": "maccms",
+   "api": "https://jszyapi.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "ikun",
+   "name": "iKun采集站",
+   "adapter": "maccms",
+   "api": "https://ikunzyapi.com/api.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "jinying",
+   "name": "金鹰采集站",
+   "adapter": "maccms",
+   "api": "https://jyzyapi.com/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:24:37",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 1.0
+  },
+  {
+   "id": "xinlang",
+   "name": "新浪采集",
+   "adapter": "maccms",
+   "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+   "tier": 2,
+   "status": "active",
+   "last_ok": "2026-11-17 16:08:19",
+   "last_probe": "2026-11-17 16:24:37",
+   "score": 0.0
+  }
+ ],
+ "dead": [
+  "ledou",
+  "wsyzy"
+ ]
+}
