@@ -2,15 +2,6 @@
  "wallpaper": "https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN",
  "sites": [
   {
-   "key": "vh_zy360",
-   "name": "360 采集站",
-   "type": 1,
-   "api": "https://360zy.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "vh_huya",
    "name": "虎牙采集站",
    "type": 1,
