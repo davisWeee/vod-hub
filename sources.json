@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18 04:45:26",
+ "generated": "2026-11-18 12:56:41",
  "sources": [
   {
    "id": "dongpian",
@@ -8,9 +8,9 @@
    "api": "https://dongpian.ai",
    "tier": 1,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
-   "score": 0.57,
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
+   "score": 0.58,
    "note": "自身再聚合 20+ 个上游资源站，一站多线路"
   },
   {
@@ -31,9 +31,9 @@
    "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
-   "score": 1.0
+   "last_ok": "2026-11-18 10:51:39",
+   "last_probe": "2026-11-18 12:54:39",
+   "score": 0.0
   },
   {
    "id": "hongniu",
@@ -42,8 +42,8 @@
    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   },
   {
@@ -53,8 +53,8 @@
    "api": "https://hhzyapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   },
   {
@@ -64,8 +64,8 @@
    "api": "https://api.guangsuapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   },
   {
@@ -75,7 +75,7 @@
    "api": "https://api.wsyzy.net/api.php/provide/vod/",
    "tier": 3,
    "status": "retire-candidate",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 0.0,
    "note": "首测返回非 JSON，观察"
   },
@@ -87,7 +87,7 @@
    "tier": 3,
    "status": "retire-candidate",
    "last_ok": "2026-10-23 20:02:41",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 0.0,
    "note": "服务端 10306 广告墙：真实地址被扣；降为机会源，放行时自动回路由"
   },
@@ -98,8 +98,8 @@
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0,
    "note": "首测 2/3 命中全可播（嫁金钗、仙逆），观察期 3 轮"
   },
@@ -110,8 +110,8 @@
    "api": "https://bfzyapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   },
   {
@@ -121,8 +121,8 @@
    "api": "https://cj.rycjapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   },
   {
@@ -132,8 +132,8 @@
    "api": "https://subocaiji.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   },
   {
@@ -143,8 +143,8 @@
    "api": "https://jszyapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   },
   {
@@ -154,8 +154,8 @@
    "api": "https://ikunzyapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   },
   {
@@ -164,10 +164,10 @@
    "adapter": "maccms",
    "api": "https://jyzyapi.com/provide/vod/",
    "tier": 2,
-   "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
-   "score": 1.0
+   "status": "standby",
+   "last_ok": "2026-11-18 06:45:39",
+   "last_probe": "2026-11-18 12:54:39",
+   "score": 0.0
   },
   {
    "id": "xinlang",
@@ -176,12 +176,13 @@
    "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-18 04:42:38",
-   "last_probe": "2026-11-18 04:42:38",
+   "last_ok": "2026-11-18 12:54:39",
+   "last_probe": "2026-11-18 12:54:39",
    "score": 1.0
   }
  ],
  "dead": [
+  "jinying",
   "ledou",
   "wsyzy",
   "zy360"
