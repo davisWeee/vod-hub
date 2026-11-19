@@ -2,6 +2,15 @@
  "wallpaper": "https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN",
  "sites": [
   {
+   "key": "vh_rycj",
+   "name": "如意采集站",
+   "type": 1,
+   "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
    "key": "vh_zy360",
    "name": "360 采集站",
    "type": 1,
@@ -20,37 +29,10 @@
    "filterable": 1
   },
   {
-   "key": "vh_mdzy",
-   "name": "魔都资源",
-   "type": 1,
-   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "vh_bfzy",
    "name": "暴风采集站",
    "type": 1,
    "api": "https://bfzyapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "vh_rycj",
-   "name": "如意采集站",
-   "type": 1,
-   "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "vh_ikun",
-   "name": "iKun采集站",
-   "type": 1,
-   "api": "https://ikunzyapi.com/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
