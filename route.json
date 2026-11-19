@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-19 07:26:49",
+ "generated": "2026-11-19 15:44:45",
  "order": [
   "dongpian",
   "zy360",
   "hongniu",
-  "huohu",
   "mdzy",
   "bfzy",
   "rycj",
-  "subo",
-  "jisu",
   "ikun",
   "jinying",
+  "huohu",
+  "jisu",
   "xinlang"
  ],
  "last_resort": [
   "huya",
-  "guangsu"
+  "guangsu",
+  "subo"
  ],
  "sources": {
   "dongpian": {
@@ -34,11 +34,6 @@
    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
    "tier": 2
   },
-  "huohu": {
-   "adapter": "maccms",
-   "api": "https://hhzyapi.com/api.php/provide/vod/",
-   "tier": 2
-  },
   "mdzy": {
    "adapter": "maccms",
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
@@ -54,16 +49,6 @@
    "api": "https://cj.rycjapi.com/api.php/provide/vod/",
    "tier": 2
   },
-  "subo": {
-   "adapter": "maccms",
-   "api": "https://subocaiji.com/api.php/provide/vod/",
-   "tier": 2
-  },
-  "jisu": {
-   "adapter": "maccms",
-   "api": "https://jszyapi.com/api.php/provide/vod/",
-   "tier": 2
-  },
   "ikun": {
    "adapter": "maccms",
    "api": "https://ikunzyapi.com/api.php/provide/vod/",
@@ -72,6 +57,16 @@
   "jinying": {
    "adapter": "maccms",
    "api": "https://jyzyapi.com/provide/vod/",
+   "tier": 2
+  },
+  "huohu": {
+   "adapter": "maccms",
+   "api": "https://hhzyapi.com/api.php/provide/vod/",
+   "tier": 2
+  },
+  "jisu": {
+   "adapter": "maccms",
+   "api": "https://jszyapi.com/api.php/provide/vod/",
    "tier": 2
   },
   "xinlang": {
@@ -87,6 +82,11 @@
   "guangsu": {
    "adapter": "maccms",
    "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+   "tier": 2
+  },
+  "subo": {
+   "adapter": "maccms",
+   "api": "https://subocaiji.com/api.php/provide/vod/",
    "tier": 2
   }
  },

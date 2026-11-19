@@ -20,15 +20,6 @@
    "filterable": 1
   },
   {
-   "key": "vh_huohu",
-   "name": "火狐采集站",
-   "type": 1,
-   "api": "https://hhzyapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "vh_mdzy",
    "name": "魔都资源",
    "type": 1,
@@ -56,24 +47,6 @@
    "filterable": 1
   },
   {
-   "key": "vh_subo",
-   "name": "速博采集站",
-   "type": 1,
-   "api": "https://subocaiji.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "vh_jisu",
-   "name": "极速采集站",
-   "type": 1,
-   "api": "https://jszyapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "vh_ikun",
    "name": "iKun采集站",
    "type": 1,
@@ -87,6 +60,24 @@
    "name": "金鹰采集站",
    "type": 1,
    "api": "https://jyzyapi.com/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_huohu",
+   "name": "火狐采集站",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "vh_jisu",
+   "name": "极速采集站",
+   "type": 1,
+   "api": "https://jszyapi.com/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
