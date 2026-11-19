@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20 02:08:07",
+ "generated": "2026-11-20 04:12:31",
  "sources": [
   {
    "id": "dongpian",
@@ -9,8 +9,8 @@
    "tier": 1,
    "status": "standby",
    "last_ok": "2026-11-19 19:50:41",
-   "last_probe": "2026-11-20 02:04:42",
-   "score": 0.33,
+   "last_probe": "2026-11-20 04:08:42",
+   "score": 0,
    "note": "自身再聚合 20+ 个上游资源站，一站多线路"
   },
   {
@@ -20,9 +20,9 @@
    "api": "https://360zy.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-19 23:59:41",
-   "last_probe": "2026-11-20 02:04:42",
-   "score": 0.0
+   "last_ok": "2026-11-20 04:08:42",
+   "last_probe": "2026-11-20 04:08:42",
+   "score": 1.0
   },
   {
    "id": "huya",
@@ -32,7 +32,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 01:12:40",
-   "last_probe": "2026-11-19 15:39:41",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0
   },
   {
@@ -42,9 +42,9 @@
    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-19 23:59:41",
-   "last_probe": "2026-11-20 02:04:42",
-   "score": 0.0
+   "last_ok": "2026-11-20 04:08:42",
+   "last_probe": "2026-11-20 04:08:42",
+   "score": 1.0
   },
   {
    "id": "huohu",
@@ -54,7 +54,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 11:30:41",
-   "last_probe": "2026-11-19 17:45:41",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0
   },
   {
@@ -65,7 +65,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 01:12:40",
-   "last_probe": "2026-11-19 15:39:41",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0
   },
   {
@@ -75,7 +75,7 @@
    "api": "https://api.wsyzy.net/api.php/provide/vod/",
    "tier": 3,
    "status": "retire-candidate",
-   "last_probe": "2026-11-20 02:04:42",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0,
    "note": "首测返回非 JSON，观察"
   },
@@ -87,7 +87,7 @@
    "tier": 3,
    "status": "retire-candidate",
    "last_ok": "2026-10-23 20:02:41",
-   "last_probe": "2026-11-20 02:04:42",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0,
    "note": "服务端 10306 广告墙：真实地址被扣；降为机会源，放行时自动回路由"
   },
@@ -97,10 +97,10 @@
    "adapter": "maccms",
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
    "tier": 2,
-   "status": "standby",
-   "last_ok": "2026-11-19 19:50:41",
-   "last_probe": "2026-11-20 02:04:42",
-   "score": 0.0,
+   "status": "active",
+   "last_ok": "2026-11-20 04:08:42",
+   "last_probe": "2026-11-20 04:08:42",
+   "score": 1.0,
    "note": "首测 2/3 命中全可播（嫁金钗、仙逆），观察期 3 轮"
   },
   {
@@ -110,9 +110,9 @@
    "api": "https://bfzyapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-19 23:59:41",
-   "last_probe": "2026-11-20 02:04:42",
-   "score": 0.0
+   "last_ok": "2026-11-20 04:08:42",
+   "last_probe": "2026-11-20 04:08:42",
+   "score": 1.0
   },
   {
    "id": "rycj",
@@ -121,8 +121,8 @@
    "api": "https://cj.rycjapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-20 02:04:42",
-   "last_probe": "2026-11-20 02:04:42",
+   "last_ok": "2026-11-20 04:08:42",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 1.0
   },
   {
@@ -133,7 +133,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 09:27:41",
-   "last_probe": "2026-11-19 15:39:41",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0
   },
   {
@@ -144,7 +144,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 11:30:41",
-   "last_probe": "2026-11-19 17:45:41",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0
   },
   {
@@ -153,10 +153,10 @@
    "adapter": "maccms",
    "api": "https://ikunzyapi.com/api.php/provide/vod/",
    "tier": 2,
-   "status": "standby",
-   "last_ok": "2026-11-19 19:50:41",
-   "last_probe": "2026-11-20 02:04:42",
-   "score": 0.0
+   "status": "active",
+   "last_ok": "2026-11-20 04:08:42",
+   "last_probe": "2026-11-20 04:08:42",
+   "score": 1.0
   },
   {
    "id": "jinying",
@@ -166,7 +166,7 @@
    "tier": 2,
    "status": "active",
    "last_ok": "2026-11-19 23:59:41",
-   "last_probe": "2026-11-20 02:04:42",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0
   },
   {
@@ -177,7 +177,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 11:30:41",
-   "last_probe": "2026-11-19 17:45:41",
+   "last_probe": "2026-11-20 04:08:42",
    "score": 0.0
   }
  ],
@@ -186,10 +186,8 @@
   "guangsu",
   "huohu",
   "huya",
-  "ikun",
   "jisu",
   "ledou",
-  "mdzy",
   "subo",
   "wsyzy",
   "xinlang"
