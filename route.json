@@ -1,14 +1,13 @@
 {
- "generated": "2026-11-21 04:50:27",
+ "generated": "2026-11-22 05:19:22",
  "order": [
   "dongpian",
   "zy360",
-  "hongniu",
   "mdzy",
   "bfzy",
   "rycj",
   "ikun",
-  "jinying"
+  "hongniu"
  ],
  "last_resort": [
   "huya",
@@ -16,6 +15,7 @@
   "guangsu",
   "subo",
   "jisu",
+  "jinying",
   "xinlang"
  ],
  "sources": {
@@ -27,11 +27,6 @@
   "zy360": {
    "adapter": "maccms",
    "api": "https://360zy.com/api.php/provide/vod/",
-   "tier": 2
-  },
-  "hongniu": {
-   "adapter": "maccms",
-   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
    "tier": 2
   },
   "mdzy": {
@@ -54,9 +49,9 @@
    "api": "https://ikunzyapi.com/api.php/provide/vod/",
    "tier": 2
   },
-  "jinying": {
+  "hongniu": {
    "adapter": "maccms",
-   "api": "https://jyzyapi.com/provide/vod/",
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
    "tier": 2
   },
   "huya": {
@@ -82,6 +77,11 @@
   "jisu": {
    "adapter": "maccms",
    "api": "https://jszyapi.com/api.php/provide/vod/",
+   "tier": 2
+  },
+  "jinying": {
+   "adapter": "maccms",
+   "api": "https://jyzyapi.com/provide/vod/",
    "tier": 2
   },
   "xinlang": {
