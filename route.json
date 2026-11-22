@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-22 05:19:22",
+ "generated": "2026-11-22 09:23:12",
  "order": [
   "dongpian",
   "zy360",
   "mdzy",
   "bfzy",
   "rycj",
-  "ikun",
-  "hongniu"
+  "ikun"
  ],
  "last_resort": [
   "huya",
+  "hongniu",
   "huohu",
   "guangsu",
   "subo",
@@ -49,14 +49,14 @@
    "api": "https://ikunzyapi.com/api.php/provide/vod/",
    "tier": 2
   },
-  "hongniu": {
-   "adapter": "maccms",
-   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-   "tier": 2
-  },
   "huya": {
    "adapter": "maccms",
    "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+   "tier": 2
+  },
+  "hongniu": {
+   "adapter": "maccms",
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
    "tier": 2
   },
   "huohu": {
