@@ -45,6 +45,15 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
+  },
+  {
+   "key": "vh_jinying",
+   "name": "金鹰采集站",
+   "type": 1,
+   "api": "https://jyzyapi.com/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
   }
  ],
  "lives": [
