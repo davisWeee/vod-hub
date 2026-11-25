@@ -1,10 +1,9 @@
 {
- "generated": "2026-11-25 06:43:27",
+ "generated": "2026-11-25 19:00:09",
  "order": [
   "dongpian",
   "zy360",
   "mdzy",
-  "bfzy",
   "rycj",
   "ikun",
   "jinying"
@@ -14,6 +13,7 @@
   "hongniu",
   "huohu",
   "guangsu",
+  "bfzy",
   "subo",
   "jisu",
   "xinlang"
@@ -32,11 +32,6 @@
   "mdzy": {
    "adapter": "maccms",
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-   "tier": 2
-  },
-  "bfzy": {
-   "adapter": "maccms",
-   "api": "https://bfzyapi.com/api.php/provide/vod/",
    "tier": 2
   },
   "rycj": {
@@ -72,6 +67,11 @@
   "guangsu": {
    "adapter": "maccms",
    "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+   "tier": 2
+  },
+  "bfzy": {
+   "adapter": "maccms",
+   "api": "https://bfzyapi.com/api.php/provide/vod/",
    "tier": 2
   },
   "subo": {
