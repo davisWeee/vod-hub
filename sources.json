@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25 19:00:09",
+ "generated": "2026-11-26 19:29:21",
  "sources": [
   {
    "id": "dongpian",
@@ -8,8 +8,8 @@
    "api": "https://dongpian.ai",
    "tier": 1,
    "status": "active",
-   "last_ok": "2026-11-25 18:57:50",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_ok": "2026-11-26 19:26:52",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.33,
    "note": "自身再聚合 20+ 个上游资源站，一站多线路"
   },
@@ -20,8 +20,8 @@
    "api": "https://360zy.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-25 18:57:50",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_ok": "2026-11-26 19:26:52",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 1.0
   },
   {
@@ -32,7 +32,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 01:12:40",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0
   },
   {
@@ -43,7 +43,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-22 03:15:45",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0
   },
   {
@@ -54,7 +54,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 11:30:41",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0
   },
   {
@@ -65,7 +65,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 01:12:40",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0
   },
   {
@@ -75,7 +75,7 @@
    "api": "https://api.wsyzy.net/api.php/provide/vod/",
    "tier": 3,
    "status": "retire-candidate",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0,
    "note": "首测返回非 JSON，观察"
   },
@@ -87,7 +87,7 @@
    "tier": 3,
    "status": "retire-candidate",
    "last_ok": "2026-10-23 20:02:41",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0,
    "note": "服务端 10306 广告墙：真实地址被扣；降为机会源，放行时自动回路由"
   },
@@ -98,8 +98,8 @@
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-25 18:57:50",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_ok": "2026-11-26 19:26:52",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 1.0,
    "note": "首测 2/3 命中全可播（嫁金钗、仙逆），观察期 3 轮"
   },
@@ -111,7 +111,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-25 12:48:50",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0
   },
   {
@@ -121,8 +121,8 @@
    "api": "https://cj.rycjapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-25 18:57:50",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_ok": "2026-11-26 19:26:52",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 1.0
   },
   {
@@ -133,7 +133,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 09:27:41",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0
   },
   {
@@ -144,7 +144,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 11:30:41",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0
   },
   {
@@ -154,8 +154,8 @@
    "api": "https://ikunzyapi.com/api.php/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-25 18:57:50",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_ok": "2026-11-26 19:26:52",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 1.0
   },
   {
@@ -165,8 +165,8 @@
    "api": "https://jyzyapi.com/provide/vod/",
    "tier": 2,
    "status": "active",
-   "last_ok": "2026-11-25 18:57:50",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_ok": "2026-11-26 19:26:52",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 1.0
   },
   {
@@ -177,7 +177,7 @@
    "tier": 2,
    "status": "standby",
    "last_ok": "2026-11-19 11:30:41",
-   "last_probe": "2026-11-25 18:57:50",
+   "last_probe": "2026-11-26 19:26:52",
    "score": 0.0
   }
  ],
