@@ -11,6 +11,15 @@
    "filterable": 1
   },
   {
+   "key": "vh_huya",
+   "name": "虎牙采集站",
+   "type": 1,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
    "key": "vh_mdzy",
    "name": "魔都资源",
    "type": 1,

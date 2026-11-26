@@ -1,7 +1,8 @@
 {
- "generated": "2026-11-27 03:38:11",
+ "generated": "2026-11-27 07:42:37",
  "order": [
   "zy360",
+  "huya",
   "mdzy",
   "rycj",
   "ikun",
@@ -9,7 +10,6 @@
  ],
  "last_resort": [
   "dongpian",
-  "huya",
   "hongniu",
   "huohu",
   "guangsu",
@@ -22,6 +22,11 @@
   "zy360": {
    "adapter": "maccms",
    "api": "https://360zy.com/api.php/provide/vod/",
+   "tier": 2
+  },
+  "huya": {
+   "adapter": "maccms",
+   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
    "tier": 2
   },
   "mdzy": {
@@ -48,11 +53,6 @@
    "adapter": "dongpian",
    "api": "https://dongpian.ai",
    "tier": 1
-  },
-  "huya": {
-   "adapter": "maccms",
-   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
-   "tier": 2
   },
   "hongniu": {
    "adapter": "maccms",
