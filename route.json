@@ -1,7 +1,6 @@
 {
- "generated": "2026-11-26 19:29:21",
+ "generated": "2026-11-27 03:38:11",
  "order": [
-  "dongpian",
   "zy360",
   "mdzy",
   "rycj",
@@ -9,6 +8,7 @@
   "jinying"
  ],
  "last_resort": [
+  "dongpian",
   "huya",
   "hongniu",
   "huohu",
@@ -19,11 +19,6 @@
   "xinlang"
  ],
  "sources": {
-  "dongpian": {
-   "adapter": "dongpian",
-   "api": "https://dongpian.ai",
-   "tier": 1
-  },
   "zy360": {
    "adapter": "maccms",
    "api": "https://360zy.com/api.php/provide/vod/",
@@ -48,6 +43,11 @@
    "adapter": "maccms",
    "api": "https://jyzyapi.com/provide/vod/",
    "tier": 2
+  },
+  "dongpian": {
+   "adapter": "dongpian",
+   "api": "https://dongpian.ai",
+   "tier": 1
   },
   "huya": {
    "adapter": "maccms",
